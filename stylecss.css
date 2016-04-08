@@ -1,0 +1,19 @@
+
+p{font-size: 25px;background-color:linen;
+margin-top: 100px;}
+body{
+	background-color: gray;
+	  background-image: url("lesson.png");
+    background-repeat: repeat-x;
+
+}
+h2{
+	 color:lightblue;margin-left:220px;
+	  font-style: normal;
+}
+#a{
+	font-size: 30px;
+	text-transform:lowercase; 
+	text-align:center;
+	}
+
